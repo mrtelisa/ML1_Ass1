@@ -1,0 +1,4 @@
+sunny      hot          high      TRUE	
+sunny      mild         high      FALSE  
+sunny      cool         normal    FALSE  
+sunny      mild         normal    TRUE  
